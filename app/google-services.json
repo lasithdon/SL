@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1078580123292",
+    "firebase_url": "https://pdm2018-194ad.firebaseio.com",
+    "project_id": "pdm2018-194ad",
+    "storage_bucket": "pdm2018-194ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078580123292:android:6d5994c9928a1c4e",
+        "android_client_info": {
+          "package_name": "com.example.lasithd.smartlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078580123292-3o9jtq5ift05l18n7rol311d96smbh4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lasithd.smartlife",
+            "certificate_hash": "d39b141f6d1481c7686e45a2175552115f1572b8"
+          }
+        },
+        {
+          "client_id": "1078580123292-3l9d2kql3savr909dtenbvopu0udpk3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVB7U48DYXwiWw2dlTbV0o39lWSbbXsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078580123292-3l9d2kql3savr909dtenbvopu0udpk3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
